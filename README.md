@@ -1,6 +1,9 @@
 # react-5-standard-1st-assignment
 
-## 과제 수행 방법
+## 과제 수행
 
-- App.jsx 파일에 TODO: 로 표기된 주석을 확인하고 그 아래 부분을 확인하고 코드를 작성하세요.
-- 과제 결과는 https://react-5-standard-1st-homework.vercel.app/ 와 동일하게 동작해야 합니다.
+- 이름, 나이 상태 정의
+- 유효성 검사
+- 사용자 리스트 상태 업데이트 (추가 버튼)
+- 삭제 기능
+- map 활용
